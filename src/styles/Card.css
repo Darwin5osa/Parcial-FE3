@@ -1,0 +1,12 @@
+h3{
+    color: rgb(51, 150, 51);
+}
+
+.card{
+    background-color: darkgray;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 0px;
+}

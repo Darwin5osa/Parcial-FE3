@@ -1,0 +1,15 @@
+.formulario {
+    background-color: whitesmoke;
+    color: black;
+    width: 450px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
